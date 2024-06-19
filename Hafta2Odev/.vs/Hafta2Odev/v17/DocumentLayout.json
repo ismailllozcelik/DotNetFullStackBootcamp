@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F30F9B-BBE4-4236-AC33-2AA041A512AC}|Hafta2Odevleri\\Hafta2Odevleri.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\hafta2odev\\hafta2odevleri\\odev_2_senaryo_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F30F9B-BBE4-4236-AC33-2AA041A512AC}|Hafta2Odevleri\\Hafta2Odevleri.csproj|solutionrelative:hafta2odevleri\\odev_2_senaryo_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32F30F9B-BBE4-4236-AC33-2AA041A512AC}|Hafta2Odevleri\\Hafta2Odevleri.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\hafta2odev\\hafta2odevleri\\odev_2_senaryo_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F30F9B-BBE4-4236-AC33-2AA041A512AC}|Hafta2Odevleri\\Hafta2Odevleri.csproj|solutionrelative:hafta2odevleri\\odev_2_senaryo_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32F30F9B-BBE4-4236-AC33-2AA041A512AC}|Hafta2Odevleri\\Hafta2Odevleri.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\hafta2odev\\hafta2odevleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Odev_2_Senaryo_1.cs",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\Hafta2Odevleri\\Odev_2_Senaryo_1.cs",
-              "RelativeDocumentMoniker": "Hafta2Odevleri\\Odev_2_Senaryo_1.cs",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\Hafta2Odevleri\\Odev_2_Senaryo_1.cs",
-              "RelativeToolTip": "Hafta2Odevleri\\Odev_2_Senaryo_1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Title": "Odev_2_Senaryo_2.cs",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\Hafta2Odevleri\\Odev_2_Senaryo_2.cs",
+              "RelativeDocumentMoniker": "Hafta2Odevleri\\Odev_2_Senaryo_2.cs",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\Hafta2Odevleri\\Odev_2_Senaryo_2.cs",
+              "RelativeToolTip": "Hafta2Odevleri\\Odev_2_Senaryo_2.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:13:44.346Z",
+              "WhenOpened": "2024-06-19T13:33:01.738Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "Hafta2Odevleri\\Program.cs",
               "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Hafta2Odev\\Hafta2Odevleri\\Program.cs",
               "RelativeToolTip": "Hafta2Odevleri\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T09:56:05.272Z"
+              "WhenOpened": "2024-06-19T09:56:05.272Z",
+              "EditorCaption": ""
             }
           ]
         }

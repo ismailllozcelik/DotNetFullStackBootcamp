@@ -58,28 +58,37 @@ using Hafta2Odevleri;
 //Muhasebe departmanı, fatura oluşturmak için bu event'e abone olur.
 #region Event and Delegate
 
-// Sipariş oluşturma
-Order order = new Order
-{
-    OrderId = 1,
-    CustomerName = "İsmail Özçelik",
-    OrderDate = DateTime.Now,
-    Items = new List<string> { "Laptop", "Mouse", "Keyboard" }
-};
+//// Sipariş oluşturma
+//Order order = new Order
+//{
+//    OrderId = 1,
+//    CustomerName = "İsmail Özçelik",
+//    OrderDate = DateTime.Now,
+//    Items = new List<string> { "Laptop", "Mouse", "Keyboard" }
+//};
 
-// Departmanlar
-CustomerService customerService = new CustomerService();
-WarehouseManagement warehouseManagement = new WarehouseManagement();
-Accounting accounting = new Accounting();
+//// Departmanlar
+//CustomerService customerService = new CustomerService();
+//WarehouseManagement warehouseManagement = new WarehouseManagement();
+//Accounting accounting = new Accounting();
 
-// Event'e abone olma
-order.OrderCompleted += customerService.OnOrderCompleted;
-order.OrderCompleted += warehouseManagement.OnOrderCompleted;
-order.OrderCompleted += accounting.OnOrderCompleted;
+//// Event'e abone olma
+//order.OrderCompleted += customerService.OnOrderCompleted;
+//order.OrderCompleted += warehouseManagement.OnOrderCompleted;
+//order.OrderCompleted += accounting.OnOrderCompleted;
 
-// Sipariş tamamlama
-order.CompleteOrder();
+//// Sipariş tamamlama
+//order.CompleteOrder();
 
 #endregion
 
+// 2. soru
+// Senaryo 2: Oyun Geliştirme
+// Açıklama:
+// Bir oyun geliştirme projesinde, oyun içerisindeki karakterlerin belirli 
+// olaylara tepki vermesi gerekmektedir.Örneğin, bir karakterin canı belirli bir
+// seviyenin altına düştüğünde veya bir düşman öldüğünde bu olaylara tepki vermek için event ve delegate kullanılabilir.
+
+Game game = new Game();
+game.StartGame();
 
