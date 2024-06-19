@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hafta2Odevleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e088f891bba5c37db04497c84bbbc100268eb873")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5e3c1ae9cb680cf6239f522f152a68bc9801cd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hafta2Odevleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hafta2Odevleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -89,6 +89,19 @@ using Hafta2Odevleri;
 // olaylara tepki vermesi gerekmektedir.Örneğin, bir karakterin canı belirli bir
 // seviyenin altına düştüğünde veya bir düşman öldüğünde bu olaylara tepki vermek için event ve delegate kullanılabilir.
 
-Game game = new Game();
-game.StartGame();
+#region Game Development
+//Game game = new Game();
+//game.StartGame();
+#endregion
 
+// 2. soru
+// Senaryo 3: Finansal Uygulama
+// Açıklama:
+// Bir finansal uygulama, kullanıcıların hesap hareketlerini izlemesine ve belirli
+// olaylardan haberdar olmasına olanak tanır.Örneğin, belirli bir tutarın üzerinde bir işlem gerçekleştirildiğinde
+// veya bir hesapta belirli bir limitin altına düşüldüğünde bu olaylar için event ve delegate kullanılabilir.
+
+#region Financial Application
+FinancialApplication financialApplication = new FinancialApplication();
+financialApplication.StartApplication();
+#endregion
