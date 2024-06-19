@@ -1,0 +1,15 @@
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\bin\Debug\net8.0\Hafta2Odevleri.exe
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\bin\Debug\net8.0\Hafta2Odevleri.deps.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\bin\Debug\net8.0\Hafta2Odevleri.runtimeconfig.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\bin\Debug\net8.0\Hafta2Odevleri.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\bin\Debug\net8.0\Hafta2Odevleri.pdb
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.AssemblyInfoInputs.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.AssemblyInfo.cs
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.csproj.CoreCompileInputs.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.sourcelink.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\refint\Hafta2Odevleri.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.pdb
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\Hafta2Odevleri.genruntimeconfig.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Hafta2Odev\Hafta2Odevleri\obj\Debug\net8.0\ref\Hafta2Odevleri.dll
