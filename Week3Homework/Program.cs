@@ -63,11 +63,14 @@ var collection = new List<int> { 1, 2, 3 };
 collection.AddRange(new List<int> { 4, 5, 6, 7,8,9,10,11111 });
 Console.WriteLine($"collection: {string.Join(", ", collection)}");
 
-//🔍 IEnumerable için Extension Method:
+Console.WriteLine("-------------------------");
 
-//IEnumerable türündeki bir koleksiyondan, belirli bir koşula göre filtreleme yapabilen bir extension
-//    method yazın. Örneğin, WhereGreaterThan adlı bir method ile belirli bir değerden büyük olan elemanları
-//    filtreleyin.
+//🔍 IEnumerable için Extension Method:
+Console.WriteLine("Enumerable Extension Example: ");
+
+var enumerable = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+var greaterThan5 = enumerable.WhereGreaterThan(5);
+Console.WriteLine($"greaterThan5: {string.Join(", ", greaterThan5)}");
 
 //📜 List için Extension Method:
 
