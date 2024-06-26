@@ -72,10 +72,15 @@ var enumerable = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 var greaterThan5 = enumerable.WhereGreaterThan(5);
 Console.WriteLine($"greaterThan5: {string.Join(", ", greaterThan5)}");
 
-//📜 List için Extension Method:
 
-//List türündeki bir koleksiyona, elemanları tersine çeviren veya belirli bir sıraya göre sıralayan
-//    bir extension method yazın. Örneğin, ReverseOrder adlı bir method ile listeyi ters sıraya çevirin.
+Console.WriteLine("-------------------------");
+
+//📜 List için Extension Method:
+Console.WriteLine("List Extension Example: ");
+
+var list = new List<int> { 1, 2, 3, 4, 5 };
+var reversedList = list.ReverseOrder();
+Console.WriteLine($"reversedList: {string.Join(", ", reversedList)}");
 
 //🔑 Dictionary için Extension Method:
 
