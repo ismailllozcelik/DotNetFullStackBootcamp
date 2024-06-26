@@ -82,7 +82,18 @@ var list = new List<int> { 1, 2, 3, 4, 5 };
 var reversedList = list.ReverseOrder();
 Console.WriteLine($"reversedList: {string.Join(", ", reversedList)}");
 
-//🔑 Dictionary için Extension Method:
+Console.WriteLine("-------------------------");
 
-//Dictionary türündeki bir koleksiyona, belirli bir anahtar-değer çiftini arama veya
-//    çıkartma işlemlerini kolaylaştıran bir extension method yazın. Örneğin, GetOrDefault adlı bir method ile belirtilen anahtarın değerini bulun, yoksa varsayılan bir değer döndürün.
+//🔑 Dictionary için Extension Method:
+Console.WriteLine("Dictionary Extension Example: ");
+
+var dictionary = new Dictionary<string, int>
+{
+    { "number1", 1 },
+    { "number2", 2 }
+};
+var number2 = dictionary.GetOrDefault("number2", 0);
+Console.WriteLine($"number2: {number2}");
+
+var number3 = dictionary.GetOrDefault("number3", 0);
+Console.WriteLine($"number3: {number3}");
