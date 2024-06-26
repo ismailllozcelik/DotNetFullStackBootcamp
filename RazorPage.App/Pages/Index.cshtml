@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<p>ViewBag Razor Page'de kullanılmıyormuş</p>
+
+<hr />
+
+<p>ViewData Kullanımına bir örnek</p>
+<p>ViewData data: @ViewData["Message"]</p>
+
+<hr />
+<p>TempData Kullanımına bir örnek</p>
+<p>TempData datayı görmek için privacy sayfasına git <a  asp-page="privacy">go to privacy page</a> </p>
+
+<hr />
+<p>ViewModel kullanımına bir örnek</p>
+<p>ProductViewModel Name: @Model.Product.Name</p>
+<p>ProductViewModel Price: @Model.Product.Price</p>
+<p>ProductViewModel Description: @Model.Product.Description</p>
