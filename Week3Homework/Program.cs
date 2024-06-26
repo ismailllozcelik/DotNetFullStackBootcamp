@@ -36,9 +36,11 @@ var algorithms2 = new Algorithms<string>();
 var sortedArray2 = algorithms2.Sort(new string[] { "c", "b", "a" });
 Console.WriteLine($"sortedArray2: {string.Join(", ", sortedArray2)}");
 
+Console.WriteLine("-------------------------");
 
 //🔄 Veri Dönüşümü (Data Transformation):
+Console.WriteLine("Data Transformation Example: ");
 
-//Generic method kullanarak, bir veri tipinden başka bir veri tipine dönüşüm yapan bir yapı tasarlayın.
-//    Örneğin, bir ConvertTo<T> methodu ile List<string> türündeki bir veriyi List<int> türüne dönüştürün.
-//Kod örneği ile birlikte, bu dönüşümün nasıl yapıldığını ve generic methodların bu süreçteki avantajlarını açıklayın.
+var dataTransformation = new DataTransformation();
+var convertedList = dataTransformation.ConvertTo<string, int>(new List<string> { "1", "2", "3" });
+Console.WriteLine($"convertedList: {string.Join(", ", convertedList)} type is {convertedList.GetType()}");
