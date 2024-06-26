@@ -49,51 +49,54 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 #endregion
 
 
-//Ödev: Extension Methodlar ile İlgili Örnekler
-//Açıklama: Bu ödevde, verilen sınıflar için çeşitli extension methodlar yazmanız istenmektedir.
-//    Extension methodlar, mevcut sınıflara yeni yetenekler eklemek için kullanılır ve mevcut kodu
-//    değiştirmeden yeni işlevsellikler sağlar.
+#region Homework 2
+////Ödev: Extension Methodlar ile İlgili Örnekler
+////Açıklama: Bu ödevde, verilen sınıflar için çeşitli extension methodlar yazmanız istenmektedir.
+////    Extension methodlar, mevcut sınıflara yeni yetenekler eklemek için kullanılır ve mevcut kodu
+////    değiştirmeden yeni işlevsellikler sağlar.
 
-//İstenilenler:
+////İstenilenler:
 
-//📋 ICollection için Extension Method:
-Console.WriteLine("Collection Extension Example: ");
+////📋 ICollection için Extension Method:
+//Console.WriteLine("Collection Extension Example: ");
 
-var collection = new List<int> { 1, 2, 3 };
-collection.AddRange(new List<int> { 4, 5, 6, 7,8,9,10,11111 });
-Console.WriteLine($"collection: {string.Join(", ", collection)}");
+//var collection = new List<int> { 1, 2, 3 };
+//collection.AddRange(new List<int> { 4, 5, 6, 7,8,9,10,11111 });
+//Console.WriteLine($"collection: {string.Join(", ", collection)}");
 
-Console.WriteLine("-------------------------");
+//Console.WriteLine("-------------------------");
 
-//🔍 IEnumerable için Extension Method:
-Console.WriteLine("Enumerable Extension Example: ");
+////🔍 IEnumerable için Extension Method:
+//Console.WriteLine("Enumerable Extension Example: ");
 
-var enumerable = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-var greaterThan5 = enumerable.WhereGreaterThan(5);
-Console.WriteLine($"greaterThan5: {string.Join(", ", greaterThan5)}");
+//var enumerable = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+//var greaterThan5 = enumerable.WhereGreaterThan(5);
+//Console.WriteLine($"greaterThan5: {string.Join(", ", greaterThan5)}");
 
 
-Console.WriteLine("-------------------------");
+//Console.WriteLine("-------------------------");
 
-//📜 List için Extension Method:
-Console.WriteLine("List Extension Example: ");
+////📜 List için Extension Method:
+//Console.WriteLine("List Extension Example: ");
 
-var list = new List<int> { 1, 2, 3, 4, 5 };
-var reversedList = list.ReverseOrder();
-Console.WriteLine($"reversedList: {string.Join(", ", reversedList)}");
+//var list = new List<int> { 1, 2, 3, 4, 5 };
+//var reversedList = list.ReverseOrder();
+//Console.WriteLine($"reversedList: {string.Join(", ", reversedList)}");
 
-Console.WriteLine("-------------------------");
+//Console.WriteLine("-------------------------");
 
-//🔑 Dictionary için Extension Method:
-Console.WriteLine("Dictionary Extension Example: ");
+////🔑 Dictionary için Extension Method:
+//Console.WriteLine("Dictionary Extension Example: ");
 
-var dictionary = new Dictionary<string, int>
-{
-    { "number1", 1 },
-    { "number2", 2 }
-};
-var number2 = dictionary.GetOrDefault("number2", 0);
-Console.WriteLine($"number2: {number2}");
+//var dictionary = new Dictionary<string, int>
+//{
+//    { "number1", 1 },
+//    { "number2", 2 }
+//};
+//var number2 = dictionary.GetOrDefault("number2", 0);
+//Console.WriteLine($"number2: {number2}");
 
-var number3 = dictionary.GetOrDefault("number3", 0);
-Console.WriteLine($"number3: {number3}");
+//var number3 = dictionary.GetOrDefault("number3", 0);
+//Console.WriteLine($"number3: {number3}");
+
+#endregion
