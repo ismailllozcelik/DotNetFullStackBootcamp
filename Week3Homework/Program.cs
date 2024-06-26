@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Collections.Generic;
 using Week3Homework;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -46,3 +47,34 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //Console.WriteLine($"convertedList: {string.Join(", ", convertedList)} type is {convertedList.GetType()}");
 
 #endregion
+
+
+//Ödev: Extension Methodlar ile İlgili Örnekler
+//Açıklama: Bu ödevde, verilen sınıflar için çeşitli extension methodlar yazmanız istenmektedir.
+//    Extension methodlar, mevcut sınıflara yeni yetenekler eklemek için kullanılır ve mevcut kodu
+//    değiştirmeden yeni işlevsellikler sağlar.
+
+//İstenilenler:
+
+//📋 ICollection için Extension Method:
+Console.WriteLine("Collection Extension Example: ");
+
+var collection = new List<int> { 1, 2, 3 };
+collection.AddRange(new List<int> { 4, 5, 6, 7,8,9,10,11111 });
+Console.WriteLine($"collection: {string.Join(", ", collection)}");
+
+//🔍 IEnumerable için Extension Method:
+
+//IEnumerable türündeki bir koleksiyondan, belirli bir koşula göre filtreleme yapabilen bir extension
+//    method yazın. Örneğin, WhereGreaterThan adlı bir method ile belirli bir değerden büyük olan elemanları
+//    filtreleyin.
+
+//📜 List için Extension Method:
+
+//List türündeki bir koleksiyona, elemanları tersine çeviren veya belirli bir sıraya göre sıralayan
+//    bir extension method yazın. Örneğin, ReverseOrder adlı bir method ile listeyi ters sıraya çevirin.
+
+//🔑 Dictionary için Extension Method:
+
+//Dictionary türündeki bir koleksiyona, belirli bir anahtar-değer çiftini arama veya
+//    çıkartma işlemlerini kolaylaştıran bir extension method yazın. Örneğin, GetOrDefault adlı bir method ile belirtilen anahtarın değerini bulun, yoksa varsayılan bir değer döndürün.
