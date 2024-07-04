@@ -1,4 +1,6 @@
 ﻿
+using BasicShop.MVC.Models.Category.ViewModels;
+
 namespace BasicShop.MVC.Models.Category
 {
     public class CategoryService : ICategoryService
@@ -8,9 +10,16 @@ namespace BasicShop.MVC.Models.Category
         {
             _categoryRepository = categoryRepository;
         }
-        public void Add(Category category)
+        public void Add(CreateViewModel category)
         {
-            _categoryRepository.Add(category);
+            var categoryToAdd = new Category
+            {
+                Id = new Random().Next(1, 1000),
+                Name = category.Name,
+                Description = category.Description
+            };
+          
+            _categoryRepository.Add(categoryToAdd);
         }
 
         public void Delete(int id)

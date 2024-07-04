@@ -1,7 +1,7 @@
 ﻿
 namespace BasicShop.MVC.Models.Product
 {
-    public class ProductService : IProductRepository
+    public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
 
