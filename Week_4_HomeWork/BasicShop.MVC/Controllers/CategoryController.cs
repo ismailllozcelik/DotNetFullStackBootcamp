@@ -8,5 +8,10 @@ namespace BasicShop.MVC.Controllers
         {
             return View();
         }
+
+        public IActionResult List()
+        {
+            return View();
+        }
     }
 }
