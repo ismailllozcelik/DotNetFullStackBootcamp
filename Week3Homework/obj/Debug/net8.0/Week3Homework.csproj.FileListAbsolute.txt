@@ -1,0 +1,15 @@
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\bin\Debug\net8.0\Week3Homework.exe
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\bin\Debug\net8.0\Week3Homework.deps.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\bin\Debug\net8.0\Week3Homework.runtimeconfig.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\bin\Debug\net8.0\Week3Homework.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\bin\Debug\net8.0\Week3Homework.pdb
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.AssemblyInfoInputs.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.AssemblyInfo.cs
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.csproj.CoreCompileInputs.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.sourcelink.json
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\refint\Week3Homework.dll
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.pdb
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\Week3Homework.genruntimeconfig.cache
+C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week3Homework\obj\Debug\net8.0\ref\Week3Homework.dll
