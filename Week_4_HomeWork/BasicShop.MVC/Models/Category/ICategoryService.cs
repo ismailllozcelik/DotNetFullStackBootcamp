@@ -6,7 +6,7 @@ namespace BasicShop.MVC.Models.Category
     {
         void Add(CreateViewModel category);
         void Update(Category category);
-        IEnumerable<Category> GetAll();
+        IEnumerable<ListViewModel> GetAll();
         void Delete(int id);
         Category GetById(int id);
 

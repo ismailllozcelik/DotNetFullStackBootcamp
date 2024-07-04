@@ -14,7 +14,8 @@ namespace BasicShop.MVC.Controllers
         }
         public IActionResult List()
         {
-            return View();
+            var categories = _categoryService.GetAll();
+            return View(categories);
         }
 
         public IActionResult Create()

@@ -28,9 +28,14 @@ namespace BasicShop.MVC.Models.Category
 
         }
 
-        public IEnumerable<Category> GetAll()
+        public IEnumerable<ListViewModel> GetAll()
         {
-            return _categoryRepository.GetAll();
+            return _categoryRepository.GetAll().Select(c => new ListViewModel
+            {
+                Id = c.Id,
+                Name = c.Name,
+                Description = c.Description
+            });
         }
 
         public Category GetById(int id)
