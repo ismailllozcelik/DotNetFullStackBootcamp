@@ -1,0 +1,24 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using BasicShop.RazorPage.Models.Categories.ViewModels
+@model BasicShop.RazorPage.Pages.Category.CreateModel
+@{
+}
+
+
+<h1>Kategori Oluştur</h1>
+
+<form  method="post">
+    <div class="mb-3">
+        <label asp-for="CreateViewModel.Name" class="form-label"></label>
+        <input class="form-control" asp-for="CreateViewModel.Name" placeholder="Kategori Adı">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CreateViewModel.Description" class="form-label"></label>
+        <input class="form-control" asp-for="CreateViewModel.Description" placeholder="Kategori Açıklaması">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+
+</form>

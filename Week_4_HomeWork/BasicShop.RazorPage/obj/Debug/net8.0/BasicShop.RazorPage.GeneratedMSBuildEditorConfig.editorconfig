@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\bmism\OneDrive\Masaüstü\.NetCoreBootcamp\Ödevler\DotNetFullStackBootcamp\Week_4_HomeWork\BasicShop.RazorPage
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/bmism/OneDrive/Masaüstü/.NetCoreBootcamp/Ödevler/DotNetFullStackBootcamp/Week_4_HomeWork/BasicShop.RazorPage/Pages/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bmism/OneDrive/Masaüstü/.NetCoreBootcamp/Ödevler/DotNetFullStackBootcamp/Week_4_HomeWork/BasicShop.RazorPage/Pages/Category/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

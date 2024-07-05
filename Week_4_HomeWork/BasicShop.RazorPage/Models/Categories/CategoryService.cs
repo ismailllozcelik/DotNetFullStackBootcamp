@@ -1,4 +1,6 @@
-﻿namespace BasicShop.RazorPage.Models.Category
+﻿using BasicShop.RazorPage.Models.Categories.ViewModels;
+
+namespace BasicShop.RazorPage.Models.Category
 {
     public class CategoryService : ICategoryService
     {
@@ -8,9 +10,15 @@
         {
             _categoryRepository = categoryRepository;
         }
-        public void Add(Category category)
+        public void Add(CreateViewModel category)
         {
-            _categoryRepository.Add(category);
+            var categoryToAdd = new Category
+            {
+                Id = new Random().Next(1, 1000),
+                Name = category.Name,
+                Description = category.Description
+            };
+            _categoryRepository.Add(categoryToAdd);
         }
 
         public void Delete(int id)
@@ -23,9 +31,14 @@
             _categoryRepository.Delete(id);
         }
 
-        public IEnumerable<Category> GetAll()
+        public IEnumerable<ListViewModel> GetAll()
         {
-            return _categoryRepository.GetAll();
+            return _categoryRepository.GetAll().Select(x => new ListViewModel
+            {
+                Id = x.Id,
+                Name = x.Name,
+                Description = x.Description
+            });
         }
 
         public Category GetById(int id)

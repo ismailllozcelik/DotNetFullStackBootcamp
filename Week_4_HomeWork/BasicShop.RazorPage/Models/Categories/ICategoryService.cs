@@ -1,10 +1,12 @@
-﻿namespace BasicShop.RazorPage.Models.Category
+﻿using BasicShop.RazorPage.Models.Categories.ViewModels;
+
+namespace BasicShop.RazorPage.Models.Category
 {
     public interface ICategoryService
     {
-        IEnumerable<Category> GetAll();
+        IEnumerable<ListViewModel> GetAll();
         Category GetById(int id);
-        void Add(Category category);
+        void Add(CreateViewModel category);
         void Update(Category category);
         void Delete(int id);
 

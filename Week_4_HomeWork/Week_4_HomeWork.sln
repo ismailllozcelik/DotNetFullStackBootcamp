@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicShop.MVC", "BasicShop.MVC\BasicShop.MVC.csproj", "{DFD14A5E-32E1-4FA9-B893-224458764E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicShop.MVC", "BasicShop.MVC\BasicShop.MVC.csproj", "{DFD14A5E-32E1-4FA9-B893-224458764E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicShop.RazorPage", "BasicShop.RazorPage\BasicShop.RazorPage.csproj", "{BA7560FE-5035-42E6-A677-1AB3135201D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicShop.RazorPage", "BasicShop.RazorPage\BasicShop.RazorPage.csproj", "{BA7560FE-5035-42E6-A677-1AB3135201D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

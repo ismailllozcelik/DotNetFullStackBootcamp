@@ -1,6 +1,40 @@
 ﻿@page
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using BasicShop.RazorPage.Models.Categories.ViewModels
 @model BasicShop.RazorPage.Pages.Category.ListModel
 @{
 }
 
-<h1>Razor Category List is ready to serve</h1>
+<h1>Kategori Listesi</h1>
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+    <a class="btn btn-primary me-md-2" asp-page="Create">Yeni Kategori</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Kategori Adı</th>
+            <th scope="col">Kategori Açıklaması</th>
+            <th scope="col">Aksiyon</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.CategoryList)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>
+                    <a type="button" class="btn btn-outline-warning" asp-action="Edit" asp-route-id="@item.Id">Düzenle</a>
+                    <a type="button" class="btn btn-outline-danger"  asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
