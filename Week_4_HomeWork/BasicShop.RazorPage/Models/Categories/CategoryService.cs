@@ -51,14 +51,22 @@ namespace BasicShop.RazorPage.Models.Category
             return category;
         }
 
-        public void Update(Category category)
+        public void Update(EditViewModel category)
         {
             var updateToCategory = _categoryRepository.GetById(category.Id);
             if (updateToCategory == null)
             {
                 throw new Exception("Category not found");
             }
-            _categoryRepository.Update(category);
+
+            var updatedCategory = new Category
+            {
+                Id = category.Id,
+                Name = category.Name,
+                Description = category.Description
+            };
+
+            _categoryRepository.Update(updatedCategory);
         }
     }
 }

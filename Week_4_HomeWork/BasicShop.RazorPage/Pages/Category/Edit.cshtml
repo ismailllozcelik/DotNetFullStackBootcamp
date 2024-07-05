@@ -1,0 +1,24 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using BasicShop.RazorPage.Models.Categories.ViewModels
+@model BasicShop.RazorPage.Pages.Category.EditModel
+@{
+}
+
+
+<h1>Kategori Düzenle</h1>
+
+
+<form method="post" asp-action="Edit">
+    <input type="hidden" asp-for="EditViewModel.Id" value="@Model.EditViewModel.Id" />
+    <div class="mb-3">
+        <label asp-for="EditViewModel.Name" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="EditViewModel.Name" value="@Model.">
+    </div>
+    <div class="mb-3">
+        <label asp-for="EditViewModel.Description" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="EditViewModel.Description" value="@Model.EditViewModel.Description">
+    </div>
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+
+</form>

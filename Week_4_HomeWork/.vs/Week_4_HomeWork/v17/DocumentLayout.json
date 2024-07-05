@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\pages\\category\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\pages\\category\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\pages\\category\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\pages\\category\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\pages\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\pages\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\pages\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\pages\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\pages\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\pages\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.razorpage\\models\\categories\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7560FE-5035-42E6-A677-1AB3135201D4}|BasicShop.RazorPage\\BasicShop.RazorPage.csproj|solutionrelative:basicshop.razorpage\\models\\categories\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\List.cshtml",
-              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Pages\\Category\\List.cshtml",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\List.cshtml",
-              "RelativeToolTip": "BasicShop.RazorPage\\Pages\\Category\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T15:55:52.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Pages\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Create.cshtml",
-              "RelativeToolTip": "BasicShop.RazorPage\\Pages\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T15:55:50.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Program.cs",
-              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Program.cs",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Program.cs",
-              "RelativeToolTip": "BasicShop.RazorPage\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Models\\Categories\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Models\\Categories\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Models\\Categories\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "BasicShop.RazorPage\\Models\\Categories\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T15:47:06.828Z",
+              "WhenOpened": "2024-07-05T16:17:36.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Pages\\Category\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Create.cshtml.cs",
-              "RelativeToolTip": "BasicShop.RazorPage\\Pages\\Category\\Create.cshtml.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwAoAAABLAAAA",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml.cs",
+              "RelativeToolTip": "BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T15:46:58.12Z",
+              "WhenOpened": "2024-07-05T16:16:59.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml*",
+              "RelativeToolTip": "BasicShop.RazorPage\\Pages\\Category\\Edit.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:15:15.182Z",
               "EditorCaption": ""
             }
           ]
