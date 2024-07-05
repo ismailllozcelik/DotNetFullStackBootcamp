@@ -43,9 +43,15 @@ namespace BasicShop.MVC.Models.Category
             return _categoryRepository.GetById(id);
         }
 
-        public void Update(Category category)
+        public void Update(EditViewModel category)
         {
-            _categoryRepository.Update(category);
+            var categoryToUpdate = new Category
+            {
+                Id = category.Id,
+                Name = category.Name,
+                Description = category.Description
+            };
+            _categoryRepository.Update(categoryToUpdate);
         }
     }
 }

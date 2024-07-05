@@ -34,5 +34,43 @@ namespace BasicShop.MVC.Controllers
 
             return RedirectToAction(nameof(List));
         }
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            var category = _categoryService.GetById(id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            var editModel = new EditViewModel
+            {
+                Id = category.Id,
+                Name = category.Name,
+                Description = category.Description
+            };
+
+            return View(editModel);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(EditViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+            _categoryService.Update(model);
+
+            return RedirectToAction(nameof(List));
+        }
+
+        public IActionResult Delete(int id)
+        {
+            _categoryService.Delete(id);
+            return RedirectToAction(nameof(List));
+        }
+
     }
 }

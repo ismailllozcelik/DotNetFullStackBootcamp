@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\models\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\models\\category\\viewmodels\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\models\\category\\viewmodels\\listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|c:\\users\\bmism\\onedrive\\masa\u00FCst\u00FC\\.netcorebootcamp\\\u00F6devler\\dotnetfullstackbootcamp\\week_4_homework\\basicshop.mvc\\models\\category\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD14A5E-32E1-4FA9-B893-224458764E9C}|BasicShop.MVC\\BasicShop.MVC.csproj|solutionrelative:basicshop.mvc\\models\\category\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BasicShop.MVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BasicShop.MVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:02:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "BasicShop.MVC\\Models\\Category\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "BasicShop.MVC\\Models\\Category\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:52:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BasicShop.MVC\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BasicShop.MVC\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAgAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T20:07:16.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\CategoryService.cs",
               "RelativeDocumentMoniker": "BasicShop.MVC\\Models\\Category\\CategoryService.cs",
               "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\CategoryService.cs",
               "RelativeToolTip": "BasicShop.MVC\\Models\\Category\\CategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBUAAAAjAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T20:06:23.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ICategoryService.cs",
               "RelativeDocumentMoniker": "BasicShop.MVC\\Models\\Category\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ICategoryService.cs",
               "RelativeToolTip": "BasicShop.MVC\\Models\\Category\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T20:06:10.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Views\\Category\\List.cshtml",
               "RelativeDocumentMoniker": "BasicShop.MVC\\Views\\Category\\List.cshtml",
               "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Views\\Category\\List.cshtml",
               "RelativeToolTip": "BasicShop.MVC\\Views\\Category\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-04T20:01:32.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ViewModels\\ListViewModel.cs",
-              "RelativeDocumentMoniker": "BasicShop.MVC\\Models\\Category\\ViewModels\\ListViewModel.cs",
-              "ToolTip": "C:\\Users\\bmism\\OneDrive\\Masa\u00FCst\u00FC\\.NetCoreBootcamp\\\u00D6devler\\DotNetFullStackBootcamp\\Week_4_HomeWork\\BasicShop.MVC\\Models\\Category\\ViewModels\\ListViewModel.cs",
-              "RelativeToolTip": "BasicShop.MVC\\Models\\Category\\ViewModels\\ListViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:00:11.791Z",
               "EditorCaption": ""
             }
           ]
