@@ -1,5 +1,4 @@
-﻿
-namespace BasicShop.RazorPage.Pages.Product
+﻿namespace BasicShop.RazorPage.Models.Products
 {
     public class ProductRepository : IProductRepository
     {

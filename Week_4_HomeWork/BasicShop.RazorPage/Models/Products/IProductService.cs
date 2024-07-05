@@ -1,6 +1,6 @@
-﻿namespace BasicShop.RazorPage.Pages.Product
+﻿namespace BasicShop.RazorPage.Models.Products
 {
-    public interface IProductRepository
+    public interface IProductService
     {
         IEnumerable<Product> GetAll();
         Product GetById(int id);

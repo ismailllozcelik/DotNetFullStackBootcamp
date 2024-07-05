@@ -1,12 +1,11 @@
-﻿
-namespace BasicShop.RazorPage.Pages.Category
+﻿namespace BasicShop.RazorPage.Models.Category
 {
     public class CategoryRepository : ICategoryRepository
     {
         private static List<Category> CategoryList = new();
         public void Add(Category category)
         {
-           CategoryList.Add(category);
+            CategoryList.Add(category);
         }
 
         public void Delete(int id)
@@ -25,7 +24,7 @@ namespace BasicShop.RazorPage.Pages.Category
 
         public Category GetById(int id)
         {
-           var category = CategoryList.FirstOrDefault(x => x.Id == id);
+            var category = CategoryList.FirstOrDefault(x => x.Id == id);
             if (category == null)
             {
                 throw new Exception("Category not found");

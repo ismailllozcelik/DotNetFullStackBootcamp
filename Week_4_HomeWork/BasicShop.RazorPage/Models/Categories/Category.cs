@@ -1,4 +1,4 @@
-﻿namespace BasicShop.RazorPage.Pages.Category
+﻿namespace BasicShop.RazorPage.Models.Category
 {
     public class Category
     {

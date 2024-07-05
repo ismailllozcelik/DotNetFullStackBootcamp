@@ -1,11 +1,12 @@
-﻿namespace BasicShop.RazorPage.Pages.Category
+﻿namespace BasicShop.RazorPage.Models.Category
 {
-    public interface ICategoryRepository
+    public interface ICategoryService
     {
         IEnumerable<Category> GetAll();
         Category GetById(int id);
         void Add(Category category);
         void Update(Category category);
         void Delete(int id);
+
     }
 }

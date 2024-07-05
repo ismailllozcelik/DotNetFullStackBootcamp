@@ -1,5 +1,4 @@
-﻿
-namespace BasicShop.RazorPage.Pages.Product
+﻿namespace BasicShop.RazorPage.Models.Products
 {
     public class ProductService : IProductService
     {
@@ -16,7 +15,7 @@ namespace BasicShop.RazorPage.Pages.Product
 
         public void Delete(int id)
         {
-           var deleteToProduct = _productRepository.GetById(id);
+            var deleteToProduct = _productRepository.GetById(id);
             if (deleteToProduct == null)
             {
                 throw new Exception("Product not found");
@@ -41,7 +40,7 @@ namespace BasicShop.RazorPage.Pages.Product
 
         public void Update(Product product)
         {
-           var updateToProduct = _productRepository.GetById(product.Id);
+            var updateToProduct = _productRepository.GetById(product.Id);
             if (updateToProduct == null)
             {
                 throw new Exception("Product not found");

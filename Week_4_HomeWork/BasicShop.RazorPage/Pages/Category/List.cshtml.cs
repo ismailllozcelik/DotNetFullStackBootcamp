@@ -7,6 +7,7 @@ namespace BasicShop.RazorPage.Pages.Category
     {
         public void OnGet()
         {
+
         }
     }
 }

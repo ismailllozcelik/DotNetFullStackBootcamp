@@ -1,5 +1,4 @@
-﻿
-namespace BasicShop.RazorPage.Pages.Category
+﻿namespace BasicShop.RazorPage.Models.Category
 {
     public class CategoryService : ICategoryService
     {
@@ -11,12 +10,12 @@ namespace BasicShop.RazorPage.Pages.Category
         }
         public void Add(Category category)
         {
-           _categoryRepository.Add(category);
+            _categoryRepository.Add(category);
         }
 
         public void Delete(int id)
         {
-           var categoryToDelete = _categoryRepository.GetById(id);
+            var categoryToDelete = _categoryRepository.GetById(id);
             if (categoryToDelete == null)
             {
                 throw new Exception("Category not found");
